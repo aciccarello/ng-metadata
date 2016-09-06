@@ -31,10 +31,6 @@ defined until `ngOnInit` is triggered
 > In angular 1 terms, it is called from preLink
 > In next major version (ngMetadata 2.0) it will use $onInit under the hood, which was introduced in angular 1.5
 
-_Example:_
-
-```typescript
-```
 
 ###### Members
 
